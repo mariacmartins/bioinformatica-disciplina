@@ -6,4 +6,5 @@ Notebooks das aulas da disciplina de Bioinformática Avançada - Biotecnologia U
 - **Aula 4: Python para bioinformática - BioPython.** 
 - **Aula 5: Aprendizado de Máquina – Aprendizado Supervisionado**
 - **Aula 6: Aprendizado de Máquina – Aprendizado Não-supervisionado**
+- **Aula 7: Controle de qualidade de dados de NGS**
 
