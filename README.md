@@ -8,4 +8,4 @@ Notebooks das aulas da disciplina de Bioinformática Avançada - Biotecnologia U
 - **Aula 6: Aprendizado de Máquina – Aprendizado Não-supervisionado**
 - **Aula 7: Controle de qualidade de dados de NGS**
 - **Aula 8: Montagem de novo de genomas**
-
+- **Aula 9: Anotação de genomas**
