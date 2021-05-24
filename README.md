@@ -12,3 +12,4 @@ Notebooks das aulas da disciplina de Bioinformática Avançada (pós-graduação
 - **Aula 8: Montagem de novo de genomas**
 - **Aula 9: Anotação de genomas**
 - **Aula 10: Mapeamento de leituras**
+- **Aula 11: Análise de variantes**
