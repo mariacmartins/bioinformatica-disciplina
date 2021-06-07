@@ -13,3 +13,5 @@ Notebooks das aulas da disciplina de Bioinformática Avançada (pós-graduação
 - **Aula 9: Anotação de genomas**
 - **Aula 10: Mapeamento de leituras**
 - **Aula 11: Análise de variantes**
+- **Aula 12: Introdução ao R**
+- **Aula 13: RNA-Seq**
