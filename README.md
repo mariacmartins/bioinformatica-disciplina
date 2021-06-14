@@ -15,3 +15,4 @@ Notebooks das aulas da disciplina de Bioinformática Avançada (pós-graduação
 - **Aula 11: Análise de variantes**
 - **Aula 12: Introdução ao R**
 - **Aula 13: RNA-Seq**
+- **Aula 14: Single cell RNA-Seq**
