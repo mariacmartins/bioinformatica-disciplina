@@ -2,6 +2,7 @@
 
 Notebooks das aulas da disciplina de Bioinformática Avançada (pós-graduação em Biotecnologia UFPEL)
 
+### 📁 Aulas: 
 - **Aula 1: Google Colab e Linux.** 
 - **Aula 2: Introdução à linguagem Python para Bioinformática.** 
 - **Aula 3: Python para análise de dados.** 
@@ -16,3 +17,4 @@ Notebooks das aulas da disciplina de Bioinformática Avançada (pós-graduação
 - **Aula 12: Introdução ao R**
 - **Aula 13: RNA-Seq**
 - **Aula 14: Single cell RNA-Seq**
+- **Aula 15: Metagenômica e Microbioma**
